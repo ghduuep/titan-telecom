@@ -1,0 +1,11 @@
+{
+  "name": "titan-telecom",
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/input.css -o ./src/output.css --minify",
+    "dev": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.17",
+    "tailwindcss": "^4.1.17"
+  }
+}
