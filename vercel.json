@@ -1,5 +1,5 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "src",
+  "outputDirectory": "src/styles",
   "devCommand": "npm run dev"
 }
